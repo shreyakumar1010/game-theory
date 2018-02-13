@@ -41,7 +41,7 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-    color: #551a8b;
+    color: #2d0240;
 }
 
 h1, h2, h3,
@@ -646,7 +646,7 @@ label.error {
 
 
 .footer {
-  background-color: #551a8b;
+  background-color: #2d0240;
   border-top: 5px solid #062033;
   color: #fff;
 }
