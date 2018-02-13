@@ -11,6 +11,12 @@ body {
     color: #551a8b;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
 ol, ul {
     margin: 0;
     padding: 0;
