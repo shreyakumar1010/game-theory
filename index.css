@@ -25,3 +25,8 @@
 .title-heading {
     font-weight: bold;
 }
+
+.picture
+{
+    transform: translateY(-50%);
+}
