@@ -21,3 +21,7 @@
 .container{
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
+
+.title-heading {
+    font-weight: bold;
+}
