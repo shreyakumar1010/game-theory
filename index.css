@@ -3,6 +3,7 @@
     border-radius: 0;
     background-color: #5E4485;
     color: #FFFFFF;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
@@ -14,4 +15,5 @@
     top: 70%;
     transform: translateY(-50%);
     text-transform: uppercase;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
