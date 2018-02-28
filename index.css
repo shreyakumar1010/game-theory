@@ -1,0 +1,17 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #5E4485;
+    color: #FFFFFF;
+}
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
+    color: #FFFFFF;
+    background-color: #5E4485;
+}
+
+.carousel-caption{
+    top: 70%;
+    transform: translateY(-50%);
+    text-transform: uppercase;
+}
