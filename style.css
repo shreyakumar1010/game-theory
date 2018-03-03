@@ -31,7 +31,7 @@
     transform: translateY(-50%);
 }
 
-@media(max-width:600px)
+@media (min-width: 400px) and (max-width:600px)
 {
     .carousel-caption
     {
