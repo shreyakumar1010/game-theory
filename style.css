@@ -1,5 +1,5 @@
 .navbar {
-    margin-bottom: 0;
+    margin-bottom: 0px;
     border-radius: 0;
     background-color: #5E4485;
     color: #FFFFFF;
@@ -7,10 +7,14 @@
 }
 
 .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
+    margin-bottom: 0px;
     color: #FFFFFF;
     background-color: #5E4485;
 }
 
+.navbar-inverse {
+    margin-bottom: 0px !important;
+}
 .carousel-caption{
     top: 70%;
     transform: translateY(-50%);
