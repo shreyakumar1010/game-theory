@@ -15,6 +15,7 @@
 .navbar-inverse {
     margin-bottom: 0px !important;
 }
+
 .carousel-caption{
     top: 70%;
     transform: translateY(-50%);
@@ -22,6 +23,10 @@
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
+.banner{
+    height: auto !important;
+    width: auto\9 !important;
+}
 .container{
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
