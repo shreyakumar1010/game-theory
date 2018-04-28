@@ -61,48 +61,66 @@ footer
     color: #fff;
 }
 
-h2 {
-    font-family:sans-serif;
+h2
+{
+    font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
-.list {
-    font-family:sans-serif;
+
+.list
+{
+    font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     margin:0;
     padding:20px 0 0;
 }
-.list > li {
+
+.list > li
+{
     display:block;
     background-color: #eee;
     padding:10px;
     box-shadow: inset 0 1px 0 #fff;
 }
-.avatar {
+
+.avatar
+{
     max-width: 150px;
 }
-img {
+
+img
+{
     max-width: 100%;
 }
-li > a {
+
+li > a
+{
     font-size: 16px;
     margin:0 0 0.3rem;
     font-weight: normal;
     font-weight:bold;
     color:#111;
 }
-p {
+
+p
+{
     margin:0;
 }
 
-input {
+input
+{
     border:solid 1px #ccc;
     border-radius: 5px;
     padding:7px 14px;
     margin-bottom:10px
 }
-input:focus {
+
+input:focus
+{
     outline:none;
     border-color:#aaa;
 }
-.sort {
+
+.sort
+{
     padding:8px 30px;
     border-radius: 6px;
     border:none;
@@ -112,14 +130,20 @@ input:focus {
     background-color: #28a8e0;
     height:30px;
 }
-.sort:hover {
+
+.sort:hover
+{
     text-decoration: none;
     background-color:#1b8aba;
 }
-.sort:focus {
+
+.sort:focus
+{
     outline:none;
 }
-.sort:after {
+
+.sort:after
+{
     width: 0;
     height: 0;
     border-left: 5px solid transparent;
@@ -130,7 +154,9 @@ input:focus {
     top:-10px;
     right:-5px;
 }
-.sort.asc:after {
+
+.sort.asc:after
+{
     width: 0;
     height: 0;
     border-left: 5px solid transparent;
@@ -141,7 +167,9 @@ input:focus {
     top:13px;
     right:-5px;
 }
-.sort.desc:after {
+
+.sort.desc:after
+{
     width: 0;
     height: 0;
     border-left: 5px solid transparent;

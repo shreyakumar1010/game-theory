@@ -1,12 +1,15 @@
-var options = {
-    valueNames: [
-        'name',
-        'born',
-        { data: ['id'] },
-        { attr: 'src', name: 'image' },
-        { attr: 'href', name: 'link' },
-        { attr: 'data-timestamp', name: 'timestamp' }
-    ]
-};
-var userList = new List('users', options);
-userList.add({ name: 'Leia', born: '1954', image: 'http://www.listjs.com/images/tests/leia.jpeg', id: 5, timestamp: '67893' });
+/*Sort my entries
+  sortProperty = DOM object property that is to be used to sort in ascending order
+*/
+function sortTypesofGames(sortProperty)
+{
+    var listEntries = document.getElementsByClassName("list-entry");
+    listEntries = Array.prototype.slice.call(listEntries,0)
+    listEntries.sort(function(a,b)
+    {
+        return (a[sortProperty] > b[sortProperty]);
+    })
+    return listEntries;
+}
+
+sortTypesofGames("id");

@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script type="text/css" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/css" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+   <!-- <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script> -->
     <script type="text/javascript" src="main.js"></script>
 </head>
 <body>
@@ -36,53 +36,123 @@
 </nav>
 <!--End of Navbar-->
 <!--Start of List-->
-<div id="users">
-    <input class="search" placeholder="Search" />
-    <button class="sort" data-sort="name">
-        Sort by Name
-    </button>
-    <ul class="list">
-        <li data-id="1">
+<div id="types">
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search">
+    <ul id="mylist">
+        <li>
+            <div id="unique-id-1" class="row list-entry">
+            <div class="col-md-6">
             <a href="https://en.wikipedia.org/wiki/Game_theory#Cooperative_/_Non-cooperative" class="link name">Co-operative/Non-cooperative</a>
-            <p class="born timestamp" data-timestamp="12345">1986</p>
+            <p class="type-description">A game is considered co-operative if players can form groups that are externally enforced. On a similar note, a game is considered non-cooperative if players cannot form externaly enforced alliances and it has to be self-imposed.
+                Cooperative game theory provides a high-level approach as it only describes the structure, strategies and payoffs of coalitions, whereas non-cooperative game theory also looks at how bargaining procedures will affect the distribution of payoffs within each coalition. As non-cooperative game theory is more general, cooperative games can be analyzed through the approach of non-cooperative game theory but the converse does not hold. </p>
+            </div>
+            <div class="col-md-6">
             <img class="image" src="http://www.listjs.com/images/tests/luke.jpeg">
+            </div>
+        </div>
         </li>
-        <li data-id="2">
+        <li>
+            <div id="unique-id-2" class="row list-entry">
+            <div class="col-md-6">
             <a href="https://en.wikipedia.org/wiki/Game_theory#Symmetric_/_Asymmetric" class="link name">Symmetric/Asymmetric</a>
-            <p class="born timestamp" data-timestamp="23456">1985</p>
+                <p class="type-description">A symmetric game is a game where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them. If the identities of the players can be changed without changing the payoff to the strategies, then a game is symmetric.
+                    Most commonly studied asymmetric games are games where there are not identical strategy sets for both players.</p>
+            </div>
+            <div class="col-md-6">
             <img class="image" src="http://www.listjs.com/images/tests/darth.jpeg">
+            </div>
+            </div>
         </li>
-        <li data-id="3">
+        <li>
+            <div id="unique-id-3" class="row list-entry">
+            <div class="col-md-6">
             <a href="https://en.wikipedia.org/wiki/Game_theory#Zero-sum_/_Non-zero-sum" class="link name">Zero-Sum/Non-zerosum</a>
-            <p class="born timestamp" data-timestamp="34567">1986</p>
+                <p class="type-description">Zero-sum games are a special case of constant-sum games, in which choices by players can neither increase nor decrease the available resources. In zero-sum games the total benefit to all players in the game, for every combination of strategies, always adds to zero.
+                    Many games studied by game theorists (including the famed prisoner's dilemma) are non-zero-sum games, because the outcome has net results greater or less than zero. Informally, in non-zero-sum games, a gain by one player does not necessarily correspond with a loss by another.</p>
+            </div>
+            <div class="col-md-6">
             <img class="image" src="http://www.listjs.com/images/tests/rey.jpeg">
+            </div>
+            </div>
         </li>
-        <li data-id="4">
+        <li>
+            <div id="unique-id-4" class="row list-entry">
+            <div class="col-md-6">
             <a href="https://en.wikipedia.org/wiki/Game_theory#Simultaneous_/_Sequential" class="link name">Simultaneous</a>
-            <p class="born timestamp" data-timestamp="45678">1983</p>
+                <p class="type-description">Simultaneous games are games where both players move simultaneously, or if they do not move simultaneously, the later players are unaware of the earlier players' actions.
+                </p>
+            </div>
+            <div class="col-md-6">
             <img class="image" src="http://www.listjs.com/images/tests/boba.jpeg">
+            </div>
+            </div>
         </li>
-        <li data-id="5">
+        <li>
+        <div id="unique-id-5" class="row list-entry">
+            <div class="col-md-6">
             <a href="https://en.wikipedia.org/wiki/Game_theory#Simultaneous_/_Sequential" class="link name">Sequential</a>
-            <p class="born timestamp" data-timestamp="45678">1983</p>
+            <p class="type-description"> Sequential games (or dynamic games) are games where later players have some knowledge about earlier actions. This need not be perfect information about every action of earlier players; it might be very little knowledge.</p>
+            </div>
+            <div class="col-md-6">
             <img class="image" src="http://www.listjs.com/images/tests/boba.jpeg">
+            </div>
+        </div>
         </li>
-        <li data-id="6">
+        <li>
+        <div id="unique-id-6" class="row list-entry">
+            <div class="col-md-6">
             <a href="https://en.wikipedia.org/wiki/Game_theory#Perfect_information_and_imperfect_information" class="link name">Perfect/Imperfect Information</a>
-            <p class="born timestamp" data-timestamp="45678">1983</p>
+            <p class="type-description">An important subset of sequential games consists of games of perfect information. A game is one of perfect information if all players know the moves previously made by all other players. Most games studied in game theory are imperfect-information games.
+                Many card games are games of imperfect information, such as poker and bridge. Perfect information is often confused with complete information, which is a similar concept.Games of incomplete information can be reduced, however, to games of imperfect information by introducing "moves by nature".</p>
+            </div>
+            <div class="col-md-6">
             <img class="image" src="http://www.listjs.com/images/tests/boba.jpeg">
+            </div>
+        </div>
         </li>
-        <li data-id="7">
+        <li>
+        <div id="unique-id-7" class="row list-entry">
+            <div class="col-md-6">
             <a href="https://en.wikipedia.org/wiki/Game_theory#Many-player_and_population_games" class="link name">Many Player</a>
-            <p class="born timestamp" data-timestamp="45678">1983</p>
+            <p class="type-description">Games with an arbitrary, but finite, number of players are often called n-person games.</p>
+            </div>
+            <div class="col-md-6">
             <img class="image" src="http://www.listjs.com/images/tests/boba.jpeg">
+            </div>
+        </div>
         </li>
-        <li data-id="8">
+        <li>
+        <div id="unique-id-8" class="row list-entry">
+            <div class="col-md-6">
             <a href="https://en.wikipedia.org/wiki/Game_theory#Many-player_and_population_games" class="link name">Population</a>
-            <p class="born timestamp" data-timestamp="45678">1983</p>
+            <p class="type-description">Evolutionary game theory considers games involving a population of decision makers, where the frequency with which a particular decision is made can change over time in response to the decisions made by all individuals in the population. In biology, this is intended to model (biological) evolution, where genetically programmed organisms pass along some of their strategy programming to their offspring. In economics, the same theory is intended to capture population changes because people play the game many times within their lifetime, and consciously (and perhaps rationally) switch strategies.</p>
+            </div>
+            <div class="col-md-6">
             <img class="image" src="http://www.listjs.com/images/tests/boba.jpeg">
+            </div>
+        </div>
         </li>
     </ul>
+    <script>
+        function myFunction() {
+            // Declare variables
+            var input, filter, ul, li, a, i;
+            input = document.getElementById('myInput');
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("myList");
+            li = ul.getElementsByTagName('li');
+
+            // Loop through all list items, and hide those who don't match the search query
+            for (i = 0; i < li.length; i++) {
+                a = li[i].getElementsByTagName("a")[0];
+                if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+    </script>
 </div>
 <!-- End of list-->
 </body>
