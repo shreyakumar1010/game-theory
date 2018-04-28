@@ -42,7 +42,7 @@
         <div id="unique-id-1" class="row list-entry">
         <li>
             <div class="col-md-6">
-            <a href="https://en.wikipedia.org/wiki/Game_theory#Cooperative_/_Non-cooperative" class="link name">Co-operative/Non-cooperative</a>
+            <a href="https://en.wikipedia.org/wiki/Game_theory#Cooperative_/_Non-cooperative" class="link name">Cooperative</a>
             <p class="type-description">A game is considered co-operative if players can form groups that are externally enforced. On a similar note, a game is considered non-cooperative if players cannot form externaly enforced alliances and it has to be self-imposed.
                 Cooperative game theory provides a high-level approach as it only describes the structure, strategies and payoffs of coalitions, whereas non-cooperative game theory also looks at how bargaining procedures will affect the distribution of payoffs within each coalition. As non-cooperative game theory is more general, cooperative games can be analyzed through the approach of non-cooperative game theory but the converse does not hold. </p>
             </div>
@@ -54,7 +54,7 @@
         <div id="unique-id-2" class="row list-entry">
         <li>
             <div class="col-md-6">
-            <a href="https://en.wikipedia.org/wiki/Game_theory#Symmetric_/_Asymmetric" class="link name">Symmetric/Asymmetric</a>
+            <a href="https://en.wikipedia.org/wiki/Game_theory#Symmetric_/_Asymmetric" class="link name">Symmetric</a>
                 <p class="type-description">A symmetric game is a game where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them. If the identities of the players can be changed without changing the payoff to the strategies, then a game is symmetric.
                     Most commonly studied asymmetric games are games where there are not identical strategy sets for both players.</p>
             </div>
@@ -66,7 +66,7 @@
         <div id="unique-id-3" class="row list-entry">
         <li>
             <div class="col-md-6">
-            <a href="https://en.wikipedia.org/wiki/Game_theory#Zero-sum_/_Non-zero-sum" class="link name">Zero-Sum/Non-zerosum</a>
+            <a href="https://en.wikipedia.org/wiki/Game_theory#Zero-sum_/_Non-zero-sum" class="link name">Zero-Sum</a>
                 <p class="type-description">Zero-sum games are a special case of constant-sum games, in which choices by players can neither increase nor decrease the available resources. In zero-sum games the total benefit to all players in the game, for every combination of strategies, always adds to zero.
                     Many games studied by game theorists (including the famed prisoner's dilemma) are non-zero-sum games, because the outcome has net results greater or less than zero. Informally, in non-zero-sum games, a gain by one player does not necessarily correspond with a loss by another.</p>
             </div>
@@ -100,7 +100,7 @@
         <div id="unique-id-6" class="row list-entry">
         <li>
             <div class="col-md-6">
-            <a href="https://en.wikipedia.org/wiki/Game_theory#Perfect_information_and_imperfect_information" class="link name">Perfect/Imperfect Information</a>
+            <a href="https://en.wikipedia.org/wiki/Game_theory#Perfect_information_and_imperfect_information" class="link name">Perfect</a>
             <p class="type-description">An important subset of sequential games consists of games of perfect information. A game is one of perfect information if all players know the moves previously made by all other players. Most games studied in game theory are imperfect-information games.
                 Many card games are games of imperfect information, such as poker and bridge. Perfect information is often confused with complete information, which is a similar concept.Games of incomplete information can be reduced, however, to games of imperfect information by introducing "moves by nature".</p>
             </div>
@@ -139,11 +139,11 @@
             input = document.getElementById('myInput');
             filter = input.value.toUpperCase();
             ul = document.getElementById("myList");
-            li = ul.getElementsByTagName('li');
+            li = ul.getElementsByClassName('list-entry');
 
             // Loop through all list items, and hide those who don't match the search query
             for (i = 0; i < li.length; i++) {
-                a = li[i].getElementsByTagName("a")[0];
+                a = li[i].getElementsByClassName("a")[0];
                 if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
                     li[i].style.display = "";
                 } else {
