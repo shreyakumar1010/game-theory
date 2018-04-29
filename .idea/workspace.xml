@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626407c7-e6ee-4892-a8e5-71dc39f00d8b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Scenarios.html" afterPath="$PROJECT_DIR$/Scenarios.html" />
       <change beforePath="$PROJECT_DIR$/Types.html" afterPath="$PROJECT_DIR$/Types.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="101" column="10" lean-forward="true" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
+            <state relative-caret-position="3725">
+              <caret line="149" column="133" lean-forward="false" selection-start-line="149" selection-start-column="133" selection-end-line="149" selection-end-column="133" />
               <folding />
             </state>
           </provider>
@@ -26,8 +29,8 @@
       <file leaf-file-name="Types.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Types.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="154" column="6" lean-forward="true" selection-start-line="154" selection-start-column="6" selection-end-line="154" selection-end-column="6" />
+            <state relative-caret-position="605">
+              <caret line="129" column="54" lean-forward="false" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -36,7 +39,7 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="300">
               <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -48,8 +51,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="63" column="10" lean-forward="false" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+            <state relative-caret-position="1600">
+              <caret line="64" column="17" lean-forward="false" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -68,8 +71,8 @@
       <file leaf-file-name="Scenarios.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scenarios.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="28" column="58" lean-forward="false" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+            <state relative-caret-position="1850">
+              <caret line="74" column="10" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -101,12 +104,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Scenarios.html" />
         <option value="$PROJECT_DIR$/Factors.html" />
         <option value="$PROJECT_DIR$/list.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/Scenarios.html" />
         <option value="$PROJECT_DIR$/Types.html" />
       </list>
     </option>
@@ -137,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,10 +157,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,12 +285,13 @@
       <workItem from="1521496054562" duration="1636000" />
       <workItem from="1524081491032" duration="536000" />
       <workItem from="1524945290426" duration="732000" />
-      <workItem from="1524947816519" duration="5924000" />
+      <workItem from="1524947816519" duration="8299000" />
+      <workItem from="1524972300460" duration="871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16728000" />
+    <option name="totallyTimeSpent" value="19974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -307,7 +311,6 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -319,6 +322,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -646,14 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scenarios.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="58" lean-forward="false" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Factors.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
@@ -662,25 +658,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43925">
-          <caret line="1757" column="16" lean-forward="false" selection-start-line="1757" selection-start-column="16" selection-end-line="1757" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="101" column="10" lean-forward="true" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/list.js" />
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="300">
           <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -688,18 +669,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3725">
+          <caret line="149" column="133" lean-forward="false" selection-start-line="149" selection-start-column="133" selection-end-line="149" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="63" column="10" lean-forward="false" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        <state relative-caret-position="1600">
+          <caret line="64" column="17" lean-forward="false" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scenarios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1850">
+          <caret line="74" column="10" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Types.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="154" column="6" lean-forward="true" selection-start-line="154" selection-start-column="6" selection-end-line="154" selection-end-column="6" />
+        <state relative-caret-position="605">
+          <caret line="129" column="54" lean-forward="false" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
           <folding />
         </state>
       </provider>
