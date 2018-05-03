@@ -70,7 +70,7 @@ footer
 {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     position: relative;
-    text-align: center;
+    text-align: left;
     color: white;
 }
 
@@ -79,9 +79,15 @@ footer
     position: absolute;
     top: 8px;
     left: 16px;
-    font-size: large;
+    font-size: xx-large;
 }
 
+.intro{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: large;
+}
 .title
 {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
