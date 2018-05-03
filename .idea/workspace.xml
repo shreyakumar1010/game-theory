@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626407c7-e6ee-4892-a8e5-71dc39f00d8b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Trust.html" afterPath="$PROJECT_DIR$/Trust.html" />
-      <change beforePath="$PROJECT_DIR$/Types.html" afterPath="$PROJECT_DIR$/Types.html" />
+      <change beforePath="$PROJECT_DIR$/PrisonerDilemma.html" afterPath="$PROJECT_DIR$/PrisonerDilemma.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,31 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="44" column="56" lean-forward="false" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Types.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Types.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrisonerDilemma.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PrisonerDilemma.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PrisonerDilemma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="320">
+              <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -122,10 +101,10 @@
         <option value="$PROJECT_DIR$/Chicken Game.html" />
         <option value="$PROJECT_DIR$/Factors.html" />
         <option value="$PROJECT_DIR$/ChickenGame.html" />
-        <option value="$PROJECT_DIR$/PrisonerDilemma.html" />
         <option value="$PROJECT_DIR$/Types.html" />
         <option value="$PROJECT_DIR$/Trust.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/PrisonerDilemma.html" />
       </list>
     </option>
   </component>
@@ -298,12 +277,12 @@
       <workItem from="1524945290426" duration="732000" />
       <workItem from="1524947816519" duration="8299000" />
       <workItem from="1524972300460" duration="2139000" />
-      <workItem from="1525313263670" duration="3768000" />
+      <workItem from="1525313263670" duration="4363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25010000" />
+    <option name="totallyTimeSpent" value="25605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -709,10 +688,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PrisonerDilemma.html">
+    <entry file="file://$PROJECT_DIR$/Trust.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="100">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="177" column="27" lean-forward="false" selection-start-line="177" selection-start-column="27" selection-end-line="177" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -725,18 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trust.html">
+    <entry file="file://$PROJECT_DIR$/PrisonerDilemma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="44" column="56" lean-forward="false" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+        <state relative-caret-position="320">
+          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
           <folding />
         </state>
       </provider>
