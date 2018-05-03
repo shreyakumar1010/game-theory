@@ -82,12 +82,7 @@ footer
     font-size: xx-large;
 }
 
-.intro{
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: large;
-}
+.intro{}
 .title
 {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
