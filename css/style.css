@@ -31,6 +31,10 @@
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
+.references {
+    background-image: url(../img/Trust2.jpeg);
+}
+
 .title-heading {
     font-weight: bold;
 }
