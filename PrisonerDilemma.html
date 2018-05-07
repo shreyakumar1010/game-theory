@@ -52,7 +52,7 @@
             <div class="top-left">
                 <strong>Introduction</strong>
                 <h4><br>The prisoners' dilemma is a very popular example of a two-person game of strategic interaction, and it's a common introductory example in game theory. Here are the rules:</h4>
-                <h4>
+                <h6>
                     <ul>
                         <li>The two players in the game have been accused of a crime and have been placed in separate rooms so that they cannot communicate with one another. (In other words, they can't collude or commit to cooperating.)</li>
                         <li>Each player is asked independently whether he is going to confess to the crime or remain silent.</li>
@@ -62,16 +62,8 @@
                         <li>If both players remain silent, they each get a punishment that is less severe than if they both confess.</li>
                         <li>In the game itself, punishments (and rewards, where relevant) are represented by utility numbers. Positive numbers represent good outcomes, negative numbers represent bad outcomes, and one outcome is better than another if the number associated with it is greater.</li>
                     </ul>
-                </h4>
-                <h4><br>The objective of this scenario is to figure out what both the players best strategies are.</h4>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="img/Trust2.jpeg" style="width:100%;">
-            <div class="top-left">
-                <strong>Explanation</strong>
-                <h4><br>Once a game is defined, the next step in analyzing the game is to assess the players' strategies and try to understand how the players are likely to behave.
+                </h6>
+                <h6><br><h4><br>Once a game is defined, the next step in analyzing the game is to assess the players' strategies and try to understand how the players are likely to behave.
                     <br>Game theorists make a few assumptions when they analyze games- first, they assume that both players are aware of the payoffs both for themselves and for the other player, and, second, they assume that both players are looking to rationally maximize their own payoff from the game.
                     <br>One easy initial approach is to look for what are called dominant strategies- strategies that are best regardless of what strategy the other player chooses. In the example above, choosing to confess is a dominant strategy for both players:
                     <br><br>
@@ -80,9 +72,29 @@
                         <li>Confess is better for player 1 if player 2 chooses to remain silent since 0 is better than -1.</li>
                         <li>Confess is better for player 2 if player 1 chooses to confess since -6 is better than -10.</li>
                         <li>Confess is better for player 2 if player 1 chooses to remain silent since 0 is better than -1.</li>
-                    <br><br>Given that confessing is best for both players, it's not surprising that the outcome where both players confess is an equilibrium outcome of the game. That said, it's important to be a bit more precise with our definition.
+                        <br><br>Given that confessing is best for both players, it's not surprising that the outcome where both players confess is an equilibrium outcome of the game. That said, it's important to be a bit more precise with our definition.
                     </ul>
-                </h4>
+                </h4></h6>
+            </div>
+        </div>
+        <div class="item">
+
+            <div class="panels">
+                <div class="panel panel1">
+                    <p>Player 1</p>
+                    <p>Confess</p>
+                    <p>Player 2</p>
+                </div>
+                <div class="panel panel2">
+                    <p>Player 1</p>
+                    <p>Be Silent</p>
+                    <p>Player 2</p>
+                </div>
+                <div class="panel panel3">
+                    <p>Player 1</p>
+                    <p>Don't Confess</p>
+                    <p>Player 2</p>
+                </div>
             </div>
         </div>
 
@@ -122,6 +134,7 @@
 </div>
 </div>
 <!-- End of scenarios-->
+<script src="js/panels.js"></script>
 <script src="js/quiz_controller.js"></script>
 <script src="js/question.js"></script>
 <script src="js/app1.js"></script>
