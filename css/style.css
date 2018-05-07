@@ -181,9 +181,9 @@ footer
     flex-direction: column;
 }
 
-.panel1 { background-image:url(../img/Trust.jpeg); }
-.panel2 { background-image:url(../img/Chicken.jpeg); }
-.panel3 { background-image:url(../img/Prisoner.jpg); }
+.panel1 { background-image:url(../img/Prisoner.jpg); }
+.panel2 { background-image:url(../img/BeSilent.jpeg); }
+.panel3 { background-image:url(../img/Trust.jpeg); }
 
 /* Flex Children */
 
