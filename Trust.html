@@ -58,6 +58,20 @@
                     <br><br>In the repeated game of trust (also known as Iterated Prisoner's Dilemma), it's important that neither player knows when the last round is.
                     This is because the last round, both players would know their action has no consequence, so they'd both cheat.
                     But that means in the second-last round, their actions can't change the next round, so they'd also both cheat. But that means in the third-last round... etc
+                    <br><br>These are the rules:
+                    <ul>
+                        <li>Both players have a machine with a coin slot</li>
+                        <li>They can choose to co-operate, by putting in a coin</li>
+                        <li>Or cheat by not putting in a coin.</li>
+                        <li>If both players co-operate they get a reward of +2</li>
+                        <li>If one cheats and one co-operates, the cheater gets +3 and the other player gets -1</li>
+                        <li>If both cheat, it is 0 points for both</li>
+                        <li>The catch is that, there are three rounds of the game. This is why it is known as the Iterated Prisoner's Dilemma.</li>
+                    </ul>
+                    <br>
+                    <br>
+                    <center><h4>In the next page, we will be play the Game of Trust.</h4></center>
+                    <center><h4>Click on a Panel to see the outcome</h4></center>
                 </h4>
             </div>
         </div>
@@ -79,6 +93,38 @@
             <img src="img/Trust2.jpeg" style="width:100%;">
             <div class="top-left">
                 <strong><center>Analysis</center></strong>
+
+                <center><table style="border: 2px solid black;">
+                    <tr style="border: 2px solid black;">
+                        <th style="border: 2px solid black;height: 58px;width: 129px;padding-left: 5px;">Cheat</th>
+                        <th style="border: 2px solid black;padding-left: 20px;padding-right: 20px;">Co-operate</th>
+                    </tr>
+                    <tr style="border: 2px solid black;">
+                        <td style="border: 2px solid black;padding-left: 30px;">3, -1</td>
+                        <td style="border: 2px solid black;padding-left: 75px;">0, 0</td>
+                    </tr>
+                    <tr style="border: 2px solid black;">
+                        <td style="border: 2px solid black;padding-left: 30px;">-1, 3</td>
+                        <td style="border: 2px solid black;padding-left: 75px;">2,2</td>
+                    </tr>
+                </table></center>
+                <h4>
+                    <ul>
+                        <li>The worst possible payoff is to co-operate when other player cheats, so we assign this a value of -1.</li>
+                        <li>The best payoff is to to cheat, so we assign this a value 3.
+                            The next to worst possibility is for both to cheat, so we assign this a value 0.
+                            The last possibility is that both co-operate so we assign this a value of 2.
+                       </li>
+                        <li>While cheating, regardless of what the other player does, has the highest reward, (+3, -1) this will not work for three rounds.</li>
+                        <li>Because once we cheat in the first round, player 2 will not co-operate in the next two rounds</li>
+                        <li>The best strategy then, is to co-operate in the first round.</li>
+                        <li>Then, depending on whether or not we know the number of rounds, we can either, cheat from the second round or cheat in the last round.</li>
+                        <li>These three strategies will have repective pay-offs of: 3, 5 and 7 respectively.</li>
+                        <li>Therefore, the best strategy is to co-operate until the last round.</li>
+                    </ul>
+                </h4>
+                <br>
+                <center><h4>In the next page, we will have a short quiz on the Game of Trust.</h4></center>
             </div>
         </div>
         <div class="item">
