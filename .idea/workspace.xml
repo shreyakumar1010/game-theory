@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626407c7-e6ee-4892-a8e5-71dc39f00d8b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/598 Files/Final Presentation.pptx" afterPath="$PROJECT_DIR$/598 Files/Final Presentation.pptx" />
+      <change beforePath="$PROJECT_DIR$/ChickenGame.html" afterPath="$PROJECT_DIR$/ChickenGame.html" />
+      <change beforePath="$PROJECT_DIR$/Factors.html" afterPath="$PROJECT_DIR$/Factors.html" />
+      <change beforePath="$PROJECT_DIR$/PrisonerDilemma.html" afterPath="$PROJECT_DIR$/PrisonerDilemma.html" />
+      <change beforePath="$PROJECT_DIR$/Trust.html" afterPath="$PROJECT_DIR$/Trust.html" />
+      <change beforePath="$PROJECT_DIR$/Types.html" afterPath="$PROJECT_DIR$/Types.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,48 +23,68 @@
       <file leaf-file-name="PrisonerDilemma.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PrisonerDilemma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="167" column="26" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app1.js">
+      <file leaf-file-name="ChickenGame.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ChickenGame.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="46" column="129" lean-forward="false" selection-start-line="46" selection-start-column="129" selection-end-line="46" selection-end-column="129" />
+            <state relative-caret-position="297">
+              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quiz_controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/quiz_controller.js">
+      <file leaf-file-name="Trust.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trust.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="214">
+              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/question.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Types.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Types.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Types.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="137" column="7" lean-forward="false" selection-start-line="137" selection-start-column="7" selection-end-line="137" selection-end-column="7" />
+            <state relative-caret-position="603">
+              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="40" column="226" lean-forward="false" selection-start-line="40" selection-start-column="226" selection-end-line="40" selection-end-column="226" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Factors.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Factors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-395">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -69,8 +95,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -112,17 +138,18 @@
         <option value="$PROJECT_DIR$/app1.js" />
         <option value="$PROJECT_DIR$/js/panels.js" />
         <option value="$PROJECT_DIR$/References.html" />
-        <option value="$PROJECT_DIR$/Factors.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/app2.js" />
         <option value="$PROJECT_DIR$/js/app1.js" />
+        <option value="$PROJECT_DIR$/js/app3.js" />
+        <option value="$PROJECT_DIR$/js/search.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/PrisonerDilemma.html" />
         <option value="$PROJECT_DIR$/ChickenGame.html" />
-        <option value="$PROJECT_DIR$/js/app3.js" />
-        <option value="$PROJECT_DIR$/Trust.html" />
-        <option value="$PROJECT_DIR$/js/search.js" />
         <option value="$PROJECT_DIR$/Types.html" />
+        <option value="$PROJECT_DIR$/Factors.html" />
+        <option value="$PROJECT_DIR$/Trust.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -316,12 +343,12 @@
       <workItem from="1525323279745" duration="27352000" />
       <workItem from="1525919666029" duration="6169000" />
       <workItem from="1526003749880" duration="5296000" />
-      <workItem from="1526019309367" duration="6027000" />
+      <workItem from="1526019309367" duration="6886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75229000" />
+    <option name="totallyTimeSpent" value="76088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -394,14 +421,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Types.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Factors.html" />
     <entry file="file://$PROJECT_DIR$/PrisonerDilemma.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -539,50 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChickenGame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="111" column="25" lean-forward="true" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#center#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#center#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#hr#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trust.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="164" column="13" lean-forward="true" selection-start-line="164" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#center#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#center#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#center#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#center#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#center#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#center#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#hr#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="73" column="145" lean-forward="false" selection-start-line="73" selection-start-column="145" selection-end-line="73" selection-end-column="145" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/app1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="658">
@@ -607,22 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-393">
-          <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PrisonerDilemma.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="167" column="26" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/search.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -631,10 +590,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PrisonerDilemma.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChickenGame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Types.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="137" column="7" lean-forward="false" selection-start-line="137" selection-start-column="7" selection-end-line="137" selection-end-column="7" />
+        <state relative-caret-position="603">
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trust.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="226" lean-forward="false" selection-start-line="40" selection-start-column="226" selection-end-line="40" selection-end-column="226" />
           <folding />
         </state>
       </provider>
