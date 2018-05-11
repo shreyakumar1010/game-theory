@@ -43,11 +43,11 @@ function showScores() {
 
 // create questions
 var questions = [
-    new Question("Which one is not an object oriented programming language?", ["Java", "C#","C++", "C"], "C"),
-    new Question("What is a Game?", ["Two players interacting", "Fun", "Competition", "Nothing"], "Two players interacting"),
-    new Question("There are ____ main components of object oriented programming.", ["1", "6","2", "4"], "4"),
-    new Question("Which language is used for web apps?", ["PHP", "Python", "Javascript", "All"], "All"),
-    new Question("MVC is a ____.", ["Language", "Library", "Framework", "All"], "Framework")
+    new Question("What is a Game?", ["Two players interacting", "A fun activity", "A competition", "Nothing"], "Two players interacting"),
+    new Question("Which outcome has the best reward?", ["Both confess", "Both silent","There are no rewards", "Neither"], "Both Confess"),
+    new Question("What do the numbers in the matrix stand for?", ["Random values", "Risk and reward","Nothing", "Graph values"], "Risk and reward"),
+    new Question("For the Prisoner's Dilemma, what should Player 1 do?", ["Confess", "Be Silent", "Wait", "N/A"], "Confess"),
+    new Question("Is there a dominant strategy to this game?", ["No", "Yes", "Don't know", "Not Applicable"], "No")
 ];
 
 // create quiz
