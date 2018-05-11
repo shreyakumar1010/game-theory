@@ -36,18 +36,18 @@ function showProgress() {
 
 function showScores() {
     var gameOverHTML = "<h1>Result</h1>";
-    gameOverHTML += "<h2 id='score'> Your scores: " + quiz.score + "</h2>";
+    gameOverHTML += "<h2 id='score'> You got " + quiz.score + " out of " + quiz.questions.length + " questions right!</h2>";
     var element = document.getElementById("quiz");
     element.innerHTML = gameOverHTML;
 };
 
 // create questions
 var questions = [
-    new Question("Which one is not an object oriented programming language?", ["Java", "C#","C++", "C"], "C"),
-    new Question("Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
-    new Question("There are ____ main components of object oriented programming.", ["1", "6","2", "4"], "4"),
-    new Question("Which language is used for web apps?", ["PHP", "Python", "Javascript", "All"], "All"),
-    new Question("MVC is a ____.", ["Language", "Library", "Framework", "All"], "Framework")
+    new Question("How is the chicken game different from the Prisoner's dilemma?", ["It's not", "Different rules","Order is different", "N/A"], "Order is different"),
+    new Question("What is the best outcome?", ["Swerving", "Crashing", "Being Chicken", "Not Being Chicken"], "Not Being chicken"),
+    new Question("Where is the Chicken Game applicable in real life?", ["Traffic rules", "Nuclear War","School", "Other"], "Nuclear War"),
+    new Question("Is there a dominant strategy?", ["Yes", "No", "Depends", "N/A"], "No"),
+    new Question("What is a different version of the Chicken Game called?", ["Bird", "Turkey", "Volunteer", "All"], "Volunteer")
 ];
 
 // create quiz

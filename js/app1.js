@@ -44,7 +44,7 @@ function showScores() {
 // create questions
 var questions = [
     new Question("What is a Game?", ["Two players interacting", "A fun activity", "A competition", "Nothing"], "Two players interacting"),
-    new Question("Which outcome has the best reward?", ["Both confess", "Both silent","There are no rewards", "Neither"], "Both Confess"),
+    new Question("Which outcome has the best reward?", ["Both confess", "Both silent","There are no rewards", "Neither"], "Both confess"),
     new Question("What do the numbers in the matrix stand for?", ["Random values", "Risk and reward","Nothing", "Graph values"], "Risk and reward"),
     new Question("For the Prisoner's Dilemma, what should Player 1 do?", ["Confess", "Be Silent", "Wait", "N/A"], "Confess"),
     new Question("Is there a dominant strategy to this game?", ["No", "Yes", "Don't know", "Not Applicable"], "No")
